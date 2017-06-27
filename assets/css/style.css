@@ -46,7 +46,7 @@ h6 {
 	font-size:16px;
 }
 p.lead {
-	font-size:24px;
+	font-size:28px;
 	font-weight:200;
 }
 p {
@@ -87,7 +87,7 @@ img {
 }
 .section-title {
 	text-transform:uppercase;
-	font-size:30px;
+	font-size:50px;
 	letter-spacing:5px;
 }
 .whitecolor {
@@ -413,7 +413,7 @@ label {
 .navbar-inverse .navbar-nav>li>a {
 	color:inherit;
 	text-transform:uppercase;
-	font-size:12px;
+	font-size:16px;
 	font-weight:bold;
 }
 .navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>.active>a:focus {
